@@ -2,6 +2,7 @@
 <h3 align="left">Call me Marcel. I'm a DevOps-, Cloud- Engineer and AWS Solutions Architect with also a passion for A.I. applications and Deep Learning. 
 Welcome to my GitHub profile.</h3>
 </a>
+
 ## 📞 Kontakt
 <p align="left">
 <a href="https://www.linkedin.com/in/marcel-wollmann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelwollmann" height="30" width="40" /></a>
