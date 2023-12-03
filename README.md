@@ -3,7 +3,7 @@
 Welcome to my GitHub profile.</h3>
 </a>
 <a>
-<p><img align="left" src="https://giphy.com/embed/MC6eSuC3yypCU" width="480" height="257" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/MC6eSuC3yypCU"></p>
+<p><div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/MC6eSuC3yypCU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/MC6eSuC3yypCU">via GIPHY</a></p>
 </a>
 ## 📞 Kontakt
 <p align="left">
