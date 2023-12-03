@@ -2,6 +2,7 @@
 <h3 align="left">Call me Marcel. I'm a DevOps-, Cloud- Engineer and AWS Solutions Architect with also a passion for A.I. applications and Deep Learning. 
 Welcome to my GitHub profile.</h3>
 </a>
+<iframe src="https://giphy.com/embed/MC6eSuC3yypCU" width="480" height="257" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MC6eSuC3yypCU">via GIPHY</a></p>
 
 ## 📞 Kontakt
 <p align="left">
