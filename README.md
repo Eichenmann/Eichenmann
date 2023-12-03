@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eichenmann</h1>
 <h3 align="left">Call me Marcel. I'm a DevOps-, Cloud- Engineer and AWS Solutions Architect with also a passion for A.I. applications and Deep Learning. 
 Welcome to my GitHub profile.</h3>
-
-I'm a DevOps- Engineer</a>
+</a>
 
 ## 📞 Kontakt
 <p align="left">
